@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class TheFleshOfSilence : ModuleRules
+public class FleshOfSilence : ModuleRules
 {
-	public TheFleshOfSilence(ReadOnlyTargetRules Target) : base(Target)
+	public FleshOfSilence(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

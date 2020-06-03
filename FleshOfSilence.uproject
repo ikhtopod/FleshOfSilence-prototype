@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "TheFleshOfSilence",
+			"Name": "FleshOfSilence",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
