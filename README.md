@@ -1,2 +1,2 @@
-# TheFleshOfSilence
-The game "The flesh of silence".
+# Flesh of Silence
+The game "Flesh of Silence".
